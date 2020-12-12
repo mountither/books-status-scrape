@@ -1,0 +1,4 @@
+.env
+geckdriver.log
+books_output.json
+__pycache__
